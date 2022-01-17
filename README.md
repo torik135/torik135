@@ -1,4 +1,4 @@
-### Hi there 👋  I'm THORIQ
+### Hi there 👋  I'm THORIQ (mta)
 
 ## I'm Web Developer
 
@@ -14,14 +14,16 @@
 <br/>
 <p align="left">
   <a href="https://github.com/torik135/">
-   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torik135&theme=gruvbox&hide_border=true" />
+    <img width="99.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=torik135&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="torik135" />
   </a>
 </p>
 <br>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=torik135&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="torik135" />
-  <img src="https://github-readme-stats.vercel.app/api?username=torik135&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="torik135" width="410" />
+  <a href="https://github.com/torik135/">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torik135&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torik135&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="torik135" width="410" />
+  </a>
 </p>
 <br/>

@@ -22,8 +22,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=torik135&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="ovi" />
-</p>
-<p>
-  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=torik135&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="ovi" width="410" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=torik135&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="ovi" width="410" />
 </p>
 <br><br><br><br><br>

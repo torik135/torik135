@@ -9,6 +9,8 @@
 - 💬 Ask me about: Web Dev and Python and Javascript
 - 📫 How to reach me: riqibrekele@gmail.com
 
+## Portofolio : https://portofolio-repo.vercel.app/
+
 ## My Statistics
 
 <br/>

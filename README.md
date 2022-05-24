@@ -5,8 +5,9 @@
 # And i'm 
 
 - 🔭 I’m currently working on My dreams
-- 🌱 I’m currently learning Web Dev and python and Javascript
-- 💬 Ask me about: Web Dev and Python and Javascript
+- 🌱 I’m currently learning Web Dev, python and Javascript
+- 💬 Ask me about: Web Dev, Python and Javascript
+- (i know about PHP too.)
 - 📫 How to reach me: riqibrekele@gmail.com
 
 ## Portofolio : https://portofolio-repo.vercel.app/

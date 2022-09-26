@@ -10,7 +10,7 @@
 - (i know about PHP too.)
 - 📫 How to reach me: riqibrekele@gmail.com
 
-## Portofolio : https://portofolio-repo.vercel.app/
+## Portofolio : https://web-portofolio-thoriq.vercel.app
 
 ## My Statistics
 

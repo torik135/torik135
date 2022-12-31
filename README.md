@@ -41,13 +41,3 @@
   </a>
 </p>
 <br/>
-
-## My Statistics
-
-<p align="left">
-  <a href="https://github.com/torik135/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torik135&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torik135&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="torik135" width="410" />
-  </a>
-</p>
-<br/>

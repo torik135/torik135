@@ -13,31 +13,21 @@
 ## My Portfolio : https://web-portofolio-thoriq.vercel.app
 
 <br/>
-<h4>Programming Languages</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
-  </a>
-</p>
-<br/>
-<h4>Frameworks and Libraries</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,django,bootstrap,tailwindcss,materialui" />
-  </a>
-</p>
-<br/>
-<h4>Databases</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-  </a>
-</p>
-<br/>
-<h4>Techs and Apps</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,bash" />
-  </a>
+<p>
+  <h4>Programming Languages</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+
+  <img width="40%" align="right" alt="torik135 Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torik135&layout=compact&show_icons=true&hide_border=true" />
+
+  <br/>
+  <h4>Frameworks and Libraries</p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,laravel,django,bootstrap,tailwindcss,materialui" />
+  <br/>
+  <h4>Databases</p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <br/>
+  <h4>Techs and Apps</p>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,bash" />
+
 </p>
 <br/>
